@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+简书</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/font-awesome-ie7.min.css">
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<script src="js/jquery-1.9.1.min.js"></script>
+<script src="js/js.js"></script>
+</head>
+<body>
+<div id="main">
+  <div class="d1 navbar">
+    <div class="nav">
+      <div class="nav-up">
+        <ul><li class="nav-up-jianshu"><a href=""><i class="icon-home"></i> 简书</a></li>
+            <li><a href=""><i class="icon-th"></i> 专题</a></li>
+            <li><a href=""><i class="icon-mobile-phone icon-large"></i> 下载到手机</a></ul></div>
+      <div class="nav-down">
+        <ul><li><a href=""><i class="icon-font"></i>显示模式</a></li>
+            <li><a href=""><i class="icon-signin"></i>登陆</a></li></ul></div>
+    </div>
+    </div>
+    <div class="cover-img" style="background-image: url(images/1.jpg)";>
+      <div class="cover-bottom">
+        <h1>简书 </h1>
+        <h3>交流故事，沟通想法</h3>
+        <p>一个基于内容分享的社区</p><br>
+        <a href="" class="btn" id="write-button">提笔写篇文章</a></div></div>
+  </div>
+  <div class="d1 fluid">
+    <div class="mainpage">
+      <div class="list" style="width:957px">
+        <ul><li class="list1"><a href>发现</a></li>
+            <li><a href>2015精选</a></li>
+            <li class="search"><input class="searchlogo" type="search" placeholder="搜索" ><a href=""><i class="icon-search"></i></a></input></li></ul>
+      </div>
+      <div class="pages">
+        <ul class="page"><li><a class="page1" href="">热门</a></li>
+              <li><a href="">小说精选</a></li>
+              <li><a href="">摄影游记</a></li>
+              <li><a href="">漫画手绘</a></li>
+              <li><a href="">签约作者</a></li>
+              <li><a href="">新上榜</a></li>
+              <li><a href="">七日热门</a></li>
+              <li><a href="">三十日热门</a></li>
+              <li><a href="">日报</a></li>
+              <li><a href="">专题精选</a></li>
+              <li><a href="">有奖活动</a></li>
+              <li><a href="">简书出版</a></li>
+              <li><a href="">简书博客</a></li></ul>
+          <ul class="wrap">
+            <li class="wrap1"><a class="wrapimg" href=""><img src="images/page1.png" width="100" height="100"></a>
+                <div>
+                  <p class="wrap-top">
+                    <a class="wrapname" target="_blank" href="">扶绫</a>
+                    <em>·</em>
+                    <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">5天之前</span>
+                  </p>
+                  <h4 class="title">
+                    <a target="_blank" href="">直到大四，我才把大学生活过成有声有色的模样</a>
+                  </h4>
+                  <div class="wrap-footer">
+                    <a target="_blank" href="">阅读 2651</a>
+                    <a target="_blank" href=""> · 评论 93</a><span> · 喜欢 167</span></div>
+                </div></li>
+                <li class="wrap1"><a class="wrapimg" href=""><img src="images/page2.jpg" width="100" height="100"></a>
+                    <div>
+                      <p class="wrap-top">
+                        <a class="wrapname" target="_blank" href="">余小鱼MsYu</a>
+                        <em>·</em>
+                        <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">1天之前</span>
+                      </p>
+                      <h4 class="title">
+                        <a target="_blank" href="">十一月我读了14本书，想推荐这6本给涉世未深的你</a>
+                      </h4>
+                      <div class="wrap-footer">
+                        <a target="_blank" href="">阅读 1751</a>
+                        <a target="_blank" href=""> · 评论 108</a><span> · 喜欢 168</span></div>
+                    </div></li>
+                    <li class="wrap1"><a class="wrapimg" href=""><img src="images/page3.png" width="100" height="100"></a>
+                        <div>
+                          <p class="wrap-top">
+                            <a class="wrapname" target="_blank" href="">时有语默 </a>
+                            <em>·</em>
+                            <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">2天之前</span>
+                          </p>
+                          <h4 class="title">
+                            <a target="_blank" href="">不止《你的名字》，这几部诚意满满的高分动画同样清新又治愈</a>
+                          </h4>
+                          <div class="wrap-footer">
+                            <a target="_blank" href="">阅读 5351</a>
+                            <a target="_blank" href=""> · 评论 258</a><span> · 喜欢 875</span></div>
+                        </div></li>
+                        <li class="wrap1"><a class="wrapimg" href=""><img src="images/page4.jpg" width="100" height="100"></a>
+                            <div>
+                              <p class="wrap-top">
+                                <a class="wrapname" target="_blank" href="">Soul麦芽 </a>
+                                <em>·</em>
+                                <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">大约五小时之前</span>
+                              </p>
+                              <h4 class="title">
+                                <a target="_blank" href="">梁思成与林徽因：你是我一生唯一的答案</a>
+                              </h4>
+                              <div class="wrap-footer">
+                                <a target="_blank" href="">阅读 5651</a>
+                                <a target="_blank" href=""> · 评论 805</a><span> · 喜欢 2025</span></div>
+                            </div></li>
+                            <li class="wrap1"><a class="wrapimg" href=""><img src="images/page5.jpg" width="100" height="100"></a>
+                                <div>
+                                  <p class="wrap-top">
+                                    <a class="wrapname" target="_blank" href="">影子影 </a>
+                                    <em>·</em>
+                                    <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">大约18小时之前</span>
+                                  </p>
+                                  <h4 class="title">
+                                    <a target="_blank" href="">“我想你了。”</a>
+                                  </h4>
+                                  <div class="wrap-footer">
+                                    <a target="_blank" href="">阅读 3551</a>
+                                    <a target="_blank" href=""> · 评论 255</a><span> · 喜欢 315</span></div>
+                                </div></li>
+                                <li class="wrap1"><a class="wrapimg" href=""><img src="images/page6.jpg" width="100" height="100"></a>
+                                    <div>
+                                      <p class="wrap-top">
+                                        <a class="wrapname" target="_blank" href="">苏饭饭</a>
+                                        <em>·</em>
+                                        <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">1天之前</span>
+                                      </p>
+                                      <h4 class="title">
+                                        <a target="_blank" href="">直你的名字，我的秘密。</a>
+                                      </h4>
+                                      <div class="wrap-footer">
+                                        <a target="_blank" href="">阅读 2651</a>
+                                        <a target="_blank" href=""> · 评论 93</a><span> · 喜欢 167</span></div>
+                                    </div></li>
+                                    <li class="wrap1"><a class="wrapimg" href=""><img src="images/page2.jpg" width="100" height="100"></a>
+                                        <div>
+                                          <p class="wrap-top">
+                                            <a class="wrapname" target="_blank" href="">余小鱼MsYu</a>
+                                            <em>·</em>
+                                            <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">1天之前</span>
+                                          </p>
+                                          <h4 class="title">
+                                            <a target="_blank" href="">十一月我读了14本书，想推荐这6本给涉世未深的你</a>
+                                          </h4>
+                                          <div class="wrap-footer">
+                                            <a target="_blank" href="">阅读 1751</a>
+                                            <a target="_blank" href=""> · 评论 108</a><span> · 喜欢 168</span></div>
+                                        </div></li>
+                                        <li class="wrap1"><a class="wrapimg" href=""><img src="images/page3.png" width="100" height="100"></a>
+                                            <div>
+                                              <p class="wrap-top">
+                                                <a class="wrapname" target="_blank" href="">时有语默 </a>
+                                                <em>·</em>
+                                                <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">2天之前</span>
+                                              </p>
+                                              <h4 class="title">
+                                                <a target="_blank" href="">不止《你的名字》，这几部诚意满满的高分动画同样清新又治愈</a>
+                                              </h4>
+                                              <div class="wrap-footer">
+                                                <a target="_blank" href="">阅读 5351</a>
+                                                <a target="_blank" href=""> · 评论 258</a><span> · 喜欢 875</span></div>
+                                            </div></li>
+                                            <li class="wrap1"><a class="wrapimg" href=""><img src="images/page4.jpg" width="100" height="100"></a>
+                                                <div>
+                                                  <p class="wrap-top">
+                                                    <a class="wrapname" target="_blank" href="">Soul麦芽 </a>
+                                                    <em>·</em>
+                                                    <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">大约五小时之前</span>
+                                                  </p>
+                                                  <h4 class="title">
+                                                    <a target="_blank" href="">梁思成与林徽因：你是我一生唯一的答案</a>
+                                                  </h4>
+                                                  <div class="wrap-footer">
+                                                    <a target="_blank" href="">阅读 5651</a>
+                                                    <a target="_blank" href=""> · 评论 805</a><span> · 喜欢 2025</span></div>
+                                                </div></li>
+                                              <li class="wrap1"><a class="wrapimg" href=""><img src="images/page5.jpg" width="100" height="100"></a>
+                                                  <div>
+                                                    <p class="wrap-top">
+                                                      <a class="wrapname" target="_blank" href="">影子影 </a>
+                                                      <em>·</em>
+                                                      <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">大约18小时之前</span>
+                                                    </p>
+                                                    <h4 class="title">
+                                                      <a target="_blank" href="">“我想你了。”</a>
+                                                    </h4>
+                                                    <div class="wrap-footer">
+                                                      <a target="_blank" href="">阅读 3551</a>
+                                                      <a target="_blank" href=""> · 评论 255</a><span> · 喜欢 315</span></div>
+                                                  </div></li>
+                                              <li class="wrap1"><a class="wrapimg" href=""><img src="images/page1.png" width="100" height="100"></a>
+                                                  <div>
+                                                      <p class="wrap-top">
+                                                        <a class="wrapname" target="_blank" href="">扶绫</a>
+                                                          <em>·</em>
+                                                          <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">5天之前</span>
+                                                     </p>
+                                                        <h4 class="title">
+                                                          <a target="_blank" href="">直到大四，我才把大学生活过成有声有色的模样</a>
+                                                        </h4>
+                                                      <div class="wrap-footer">
+                                                            <a target="_blank" href="">阅读 2651</a>
+                                                            <a target="_blank" href=""> · 评论 93</a><span> · 喜欢 167</span></div>
+                                                      </div></li>
+                                                <li class="wrap1"><a class="wrapimg" href=""><img src="images/page2.jpg" width="100" height="100"></a>
+                                                      <div>
+                                                        <p class="wrap-top">
+                                                         <a class="wrapname" target="_blank" href="">余小鱼MsYu</a>
+                                                         <em>·</em>
+                                                         <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">1天之前</span>
+                                                        </p>
+                                                        <h4 class="title">
+                                                          <a target="_blank" href="">十一月我读了14本书，想推荐这6本给涉世未深的你</a>
+                                                          </h4>
+                                                        <div class="wrap-footer">
+                                                            <a target="_blank" href="">阅读 1751</a>
+                                                            <a target="_blank" href=""> · 评论 108</a><span> · 喜欢 168</span></div>
+                                                        </div></li>
+                                                          <li class="wrap1"><a class="wrapimg" href=""><img src="images/page3.png" width="100" height="100"></a>
+                                                            <div>
+                                                              <p class="wrap-top">
+                                                                <a class="wrapname" target="_blank" href="">时有语默 </a>
+                                                                <em>·</em>
+                                                                <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">2天之前</span>
+                                                              </p>
+                                                              <h4 class="title">
+                                                                    <a target="_blank" href="">不止《你的名字》，这几部诚意满满的高分动画同样清新又治愈</a>
+                                                                  </h4>
+                                                                  <div class="wrap-footer">
+                                                                    <a target="_blank" href="">阅读 5351</a>
+                                                                    <a target="_blank" href=""> · 评论 258</a><span> · 喜欢 875</span></div>
+                                                                </div></li>
+                                                              <li class="wrap1"><a class="wrapimg" href=""><img src="images/page4.jpg" width="100" height="100"></a>
+                                                                <div>
+                                                                  <p class="wrap-top">
+                                                                    <a class="wrapname" target="_blank" href="">Soul麦芽 </a>
+                                                                    <em>·</em>
+                                                                    <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">大约五小时之前</span>
+                                                                  </p>
+                                                                  <h4 class="title">
+                                                                    <a target="_blank" href="">梁思成与林徽因：你是我一生唯一的答案</a>
+                                                                  </h4>
+                                                                  <div class="wrap-footer">
+                                                                    <a target="_blank" href="">阅读 5651</a>
+                                                                    <a target="_blank" href=""> · 评论 805</a><span> · 喜欢 2025</span></div>
+                                                                  </div></li>
+                                                              <li class="wrap1"><a class="wrapimg" href=""><img src="images/page5.jpg" width="100" height="100"></a>
+                                                                  <div>
+                                                                    <p class="wrap-top">
+                                                                      <a class="wrapname" target="_blank" href="">影子影 </a>
+                                                                      <em>·</em>
+                                                                      <span class="time" data-shared-at="2016-12-01T00:37:40+08:00">大约18小时之前</span>
+                                                                    </p>
+                                                                      <h4 class="title">
+                                                                      <a target="_blank" href="">“我想你了。”</a>
+                                                                      </h4>
+                                                                    <div class="wrap-footer">
+                                                                      <a target="_blank" href="">阅读 3551</a>
+                                                                      <a target="_blank" href=""> · 评论 255</a><span> · 喜欢 315</span></div>
+                                                                    </div></li>
+
+          </ul>
+        </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
